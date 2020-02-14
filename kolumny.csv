@@ -1,0 +1,541 @@
+""
+id
+asins
+brand
+categories
+colors
+count
+dateadded
+dateupdated
+descriptions
+dimension
+ean
+features
+flavors
+imageurls
+isbn
+keys
+manufacturer
+manufacturernumber
+merchants
+name
+prices_amountmin
+prices_amountmax
+prices_availability
+prices_color
+prices_condition
+prices_count
+prices_currency
+prices_dateadded
+prices_dateseen
+prices_flavor
+prices_issale
+prices_merchant
+prices_offer
+prices_returnpolicy
+prices_shipping
+prices_size
+prices_source
+prices_sourceurls
+prices_warranty
+quantities
+reviews
+sizes
+skus
+sourceurls
+upc
+vin
+websiteids
+weight
+brand_cat
+features_parsed
+feat_Series Name
+feat_Fuel Type
+feat_Lens Color
+feat_FIT
+feat_Rx-able
+feat_Is Orthopedic
+feat_Polarized Lenses
+feat_Is Wheeled
+feat_Instrument
+feat_Jewelry Setting
+feat_Item weight
+feat_Face Shape
+feat_Cushioning
+feat_Item color
+feat_Year Made
+feat_Chest
+feat_Best Sellers Rank
+feat_Shirt Size
+feat_Metal Color
+feat_Material Composition
+feat_Movement
+feat_Clothing Size Type
+feat_Polarized?
+feat_Contained Battery Type
+feat_SKU Number
+feat_Ring Size
+"feat_Cleaning, Care & Maintenance"
+feat_Conflict
+feat_Place of Origin
+feat_Digital Camera
+feat_Fits models
+feat_Compatible Devices
+feat_Type 2
+feat_Elastic banded waist
+feat_Bridge Size:
+feat_Batteries Required
+feat_Full Product Manual
+feat_Fit to
+feat_Terrain
+feat_Bridge
+feat_Watch Style
+feat_Flame Resistant
+feat_Has Expiration
+feat_Type of Sole
+feat_General Warranty
+feat_spikes type
+feat_Boxed-product Dimensions
+feat_Has Mercury
+feat_Parts
+feat_Removable Hood
+feat_Licensed
+feat_Autographed
+feat_Fishing
+feat_PackageWeight
+feat_Subdial
+feat_Sole
+feat_Fabric Care Instructions
+feat_Fits brands
+feat_Package
+feat_Display Technology
+feat_Polarised
+feat_Lining
+feat_Picture
+feat_Necklace Type
+feat_Is Energy Star-Certified
+feat_Product in Inches (L x W x H)
+feat_Size
+feat_Sport
+feat_Charger Included
+feat_Leather :
+feat_Auto Shut-Off
+feat_Gemstone Type
+feat_Age
+feat_Model No.
+feat_Color/Finish Family
+feat_Shipping Weight (in pounds)
+feat_Case Thickness
+feat_Case Type:
+feat_Chronograph
+feat_Gender
+feat_Year
+feat_Assembled Product Weight
+feat_Stability
+feat_Construction
+feat_Vendor Description
+feat_Country Of Origin
+feat_Disclosures
+feat_Lens color family
+feat_Boot Height
+feat_Bag Size Range
+feat_Recommended Use
+feat_Style Number
+"feat_Thick, Warm, Cozy"
+feat_Battery Voltage
+feat_Band Color
+feat_Country of Manufacturer
+feat_Style
+feat_Materials
+feat_SKU
+feat_Shoe Closure
+feat_Assembled in Country of Origin
+feat_International shipping?
+feat_Ground
+feat_Date
+feat_Insulation
+feat_LENGTH
+feat_Pronation
+feat_Tactical
+feat_Made In
+feat_Chain Included
+feat_Stone Type
+feat_Suitable For
+feat_Compass
+feat_Leg Opening:
+feat_CM
+feat_Dial Markers
+feat_Power Type
+feat_Band Width
+feat_Item Character
+feat_Clasp Type
+feat_atpv arc rating
+feat_Crown
+feat_Adjustable
+feat_Outer Material
+feat_Clothing Size
+feat_High Visibility (ANSI Compliant)
+feat_Lens Type
+feat_Number of Pieces
+feat_Charge Time (Minutes)
+feat_Main Colour
+feat_Looks best on these face shapes:
+feat_Jacket Length
+feat_Protects Against
+feat_Waist Size
+feat_Smart Watch
+feat_Frame Material
+feat_Case Type
+feat_Nickel free
+feat_Display
+feat_Mirrored
+feat_Height
+feat_Country of Origin Assembly:
+feat_Hooded
+feat_Insulated
+feat_Heat Zones
+feat_Carats
+feat_Sleeve length
+feat_Style:
+feat_Lining Material
+feat_Band Manufacturer
+feat_Item Width
+feat_Sock Size
+feat_Wheel Type
+feat_Has Adaptive Lenses
+feat_Manufacturer Part Number
+feat_Front
+feat_EURO SIZE
+feat_Light Weight
+feat_Color
+feat_Sleeve Style
+feat_Era
+feat_Ring Style
+feat_Reinforced pockets
+feat_Metal Type
+feat_Fits over eyeglasses
+feat_Is Water-Resistant
+feat_Shoe Size
+feat_Fits Model
+feat_Item weight unit of measure
+feat_Box
+feat_Fabric
+feat_Date first available at Amazon.co.uk
+feat_UL Safety Listing
+feat_Heart Rate Monitor
+feat_Nike Id
+feat_sizebridge
+feat_Catalog
+feat_Made in
+feat_Fastener
+feat_Shipping to USA
+feat_Style Name
+feat_Model
+feat_Band Length (in.)
+feat_Pattern or Design
+feat_Multi Pack Indicator
+feat_Water Resistant
+feat_Hairstyle
+feat_Lens Width
+feat_Season
+feat_Age Start
+feat_Polarized
+feat_Closure
+feat_Airport Friendly
+feat_Global Composite Sports Type
+feat_Nike Product #
+feat_Profession
+feat_Fastener Type
+feat_Item Style
+feat_Front Style
+feat_Alarm
+feat_Name
+feat_Sports Team
+feat_UV Rating
+feat_Product Name
+feat_Dial Material
+feat_Color Mapping
+feat_Weather Resistant
+feat_Style #
+feat_Fabric Type
+feat_Origin of Components
+feat_FREE Item
+feat_Product #
+feat_GPS
+feat_Shade
+feat_SKU#
+feat_Case Finish
+feat_gender
+feat_Rise
+feat_Seller Inventory Number
+feat_Chain Length
+feat_Athlete
+feat_Location - City/State
+feat_Guaranteed Authentic
+feat_Number of Compartments
+feat_Colour Code
+feat_Has Paper Wood
+feat_Reinforced knee
+feat_Contains Batteries
+feat_Material
+feat_Used With Equipment Type
+feat_Bed Size
+feat_Quantity in Set
+feat_Metal Stamp
+feat_Bracelet Style
+feat_Brand
+feat_Location - Country
+feat_Product Dimensions
+feat_Special Features
+feat_ProductGroup
+feat_Number of Pockets
+feat_Primary Shelf ID
+feat_Designed For
+feat_Date First Available
+feat_Is Lined
+feat_Assembled Product Dimensions (L x W x H)
+feat_Primary Color
+feat_Features
+feat_Age Segment
+feat_Size/Dimensions
+feat_Authenticity
+feat_Diamond Clarity
+feat_Transactionid
+feat_Contains Cubic Zirconia
+feat_Lens Material
+feat_Bezel
+feat_Is Dark Sky-Compliant
+feat_Watch Band Material
+feat_MPN#
+feat_What Includes
+feat_Safety Apparel Product Type
+feat_Shoe Width
+feat_Purpose
+feat_Occasion
+feat_Bridge Width
+feat_Interior Pockets
+feat_Lens Technology
+feat_Hands
+feat_Colour
+feat_Recommended Location
+feat_Wheeled
+feat_golf shoe type
+feat_Age Range
+feat_Character
+feat_Bridge/Temple Size:
+feat_Sub Type
+feat_Color Family
+feat_Shoe Fastening Type
+feat_Stylenumber
+feat_Chain/Necklace Length (in.)
+feat_Characteristics
+feat_Case Tone
+feat_sizearm
+feat_Sock Style
+feat_Safety Feature
+feat_Leather Grade
+feat_Band Type
+feat_Resolution Megapixels
+feat_Hardsided or Softsided
+feat_Accessory Type
+feat_Sub Style
+feat_Length
+feat_Is Portable
+feat_Lens material
+feat_Weather-Resistant
+feat_Count
+feat_Features & Fastening
+feat_Number of Wheels
+feat_Diameter
+feat_Audience
+feat_Arm
+feat_Pant Style
+feat_Light Transmission (VLT)
+feat_Fabric Material
+feat_Age Gender Group
+feat_Item Type
+feat_Finish
+feat_Certifications and Listings
+feat_Shoe Category
+feat_Variant Group ID
+feat_Fit:
+feat_Hat Style
+feat_Inv
+feat_Issued/ Not-Issued
+feat_Waist
+feat_Shoe Height
+feat_International Shipping
+feat_Shipping Weight
+feat_Manufacturer
+feat_Batteries Included?
+feat_Theme
+feat_Country of Origin - Components
+feat_Material Detail-1
+feat_Clothing Category
+feat_Case Material
+feat_Manufacturer SKU
+feat_SHADE
+feat_Chest Size
+feat_Battery Type
+feat_Shape
+feat_100% ADIDAS AUTHENTIC
+feat_Item Weight
+feat_Country////Region of Manufacture
+feat_Combined Shipping
+feat_MPN
+feat_Temple Size:
+feat_Fits Most Screen Size
+feat_Domestic Shipping
+feat_Pattern
+feat_Style Code
+feat_Upper Material
+feat_Kids Backpacks
+feat_waterproof
+feat_Wash
+feat_Lens Socket Width
+feat_Fits Styles
+feat_Date first available at Amazon.ca
+feat_Lens material:
+feat_Number of Items
+feat_Very popular bag now a days
+feat_Includes
+feat_Designer
+feat_Lined
+feat_closure
+feat_MEASUREMENTS:
+feat_Is Weather-Resistant
+feat_Eyewear Frame Style
+feat_Is Recyclable
+feat_Product ID
+feat_WIDTH
+feat_Dimensions
+feat_Casual & Dress Shoe Style
+feat_Neckline
+feat_Fabrication
+feat_Removable Liner
+feat_manufacturer_part_number
+feat_material
+feat_Design
+feat_Safety Features
+feat_Net Weight
+feat_Release
+feat_Case Back
+feat_SIZE
+feat_Footwear Type
+feat_Resizable
+feat_Video Game Platform
+feat_Hammer loop
+feat_Eye Protection Type
+feat_Watch Shape
+feat_Batteries Required?
+feat_MSRP
+feat_Toe Type
+feat_Country of Manufacture
+feat_Use
+feat_����������������
+feat_Band Length
+feat_Crystal
+feat_Frame Type
+feat_Feature
+feat_Fabric Care
+feat_Pocket
+feat_Item Spec Attr - Style (eBay)
+feat_Hunting
+feat_Manufacturer Number
+feat_Vehicle Type
+feat_Comfort Technology
+feat_UV Protection
+feat_Label
+feat_Auto
+feat_Country of Origin Components:
+feat_Country/Region of Manufacture
+feat_Is Polarized
+feat_ISBN
+feat_Military Style
+feat_Casing
+feat_Country/ Organization
+feat_Antiscratch lens coating
+feat_Diamond Color
+feat_Hood
+feat_Country of Origin
+feat_Leg
+feat_ADIDAS
+feat_Clothing Product Type
+feat_Watch Case Shape
+feat_Expandable
+feat_Applicable
+feat_Overall Material
+feat_Main Color
+feat_Target Audience
+feat_Machine Washable
+feat_Fit
+feat_Watch Power Source
+feat_Model Number
+feat_Article
+feat_Heel Height
+feat_EAN
+feat_Type
+feat_Water-Resistant
+feat_Age Group
+feat_Work Shoes
+feat_Waterproof
+feat_Country//Region of Manufacture
+feat_Lens
+feat_Szie
+feat_Part Number
+feat_Part Type
+feat_Dial Color
+feat_NAVY BLUE
+feat_Foot Arch
+feat_To Fit
+feat_Capacity
+feat_Eye Size:
+feat_Frame Style
+feat_Mechanic
+feat_Genre
+feat_Handbag Style
+feat_Protection
+feat_Resolution
+feat_Frame Depth
+feat_Number of Batteries Included
+feat_Clothing Type
+feat_Weight
+feat_Frame Color
+feat_Is Waterproof
+feat_Sports League
+feat_Fine or Fashion
+feat_Walmart No.
+feat_Band Material
+feat_Age End
+feat_Gold Karat
+feat_Item Package Quantity
+feat_Motion Control
+feat_Frame Shape
+feat_Product Type
+feat_Condition
+feat_amazonBestSellersRank
+feat_Temple Length
+feat_Sleeve Length
+feat_Animal Type
+feat_Country of Origin - Assembly
+feat_Lens Tint
+feat_Black
+feat_Attachment
+feat_Number of Heat Settings
+feat_Retail Price
+feat_Impact Resistant
+feat_Stock No.
+feat_Material Type
+feat_Fabric Content
+feat_Case Diameter
+feat_Closure style
+feat_Technician
+feat_Enhanced Visibility (Reflective)
+feat_Labor
+feat_Width
+feat_Материал
+feat_Frame material:
+feat_Garment Care
+feat_Power Reserve
+feat_Inseam
+feat_Wind Resistant
